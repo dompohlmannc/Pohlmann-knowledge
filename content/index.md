@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Small Steps, Big Shifts
 ---
-## The index page
+## Introduction
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+My name is Dominique, and I want to help you begin your journey to being healthy and embarking into fitness. This is not about being the stongest, most ripped, or thinnest. This is more about making yourself 
 
 ## Editing pages
 
