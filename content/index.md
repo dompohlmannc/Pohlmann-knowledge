@@ -3,7 +3,7 @@ title: Small Steps, Big Shifts
 ---
 ## Introduction
 
-My name is Dominique, and I want to help you begin your journey to being healthy and embarking into fitness. This is not about being the stongest, most ripped, or thinnest. This is more about making yourself 
+My name is Dominique, and I want to help you begin your journey to being healthy and embarking into fitness. This is not about being the stongest, most ripped, or thinnest. This is about starting your journey and taking small steps. 
 
 ## Editing pages
 
