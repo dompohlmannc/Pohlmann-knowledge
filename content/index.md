@@ -3,40 +3,14 @@ title: Small Steps, Big Shifts
 ---
 ## Introduction
 
-My name is Dominique, and I want to help you begin your journey to being healthy and embarking into fitness. This is not about being the stongest, most ripped, or thinnest. This is about starting your journey and taking small steps. 
+My name is Dominique, and I want to help you begin your journey to being healthy and embarking into fitness. This is not about being the strongest, most ripped, or thinnest. This is about starting your journey and taking small steps. 
 
-## Editing pages
+## Main Categories
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+- [[fuel/index|Delicious Food Options]]
+- [[habitat/index|Create Your Space]]
+- [[mindset and identity/index|Positive Mindsets and Mantras]]
+- [[restore/index|Relax and Restore your Body]]
+- [[track, celebrate, & evolve/index|Who's ready to celebrate?]]
+- 
 
