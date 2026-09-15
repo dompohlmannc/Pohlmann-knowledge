@@ -12,5 +12,5 @@ My name is Dominique, and I want to help you begin your journey to being healthy
 - [[mindset and identity/index|Positive Mindsets and Mantras]]
 - [[restore/index|Relax and Restore your Body]]
 - [[track, celebrate, & evolve/index|Who's ready to celebrate?]]
-- 
+
 
