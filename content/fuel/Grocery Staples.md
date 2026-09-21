@@ -2,6 +2,8 @@
 
 A "healthy kitchen" that requires a second store and a specialty spice you will use once is not a system. Staples are the foods that show up in more than one meal and still look like food when you are tired. 
 
+![[Meal-Prep-101-Handout.pdf]]
+
 ## The Shopping Cart
 
 ### Protein that waits for you

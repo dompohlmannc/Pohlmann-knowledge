@@ -3,6 +3,8 @@ title: Building Your Plate
 ---
 # Building Your Plate
 
+![[Fat Loss Plate.jpg]]
+
 You do not need a perfect macro spreadsheet to start eating in a way that supports your training. You need a plate you can assemble half-asleep. The rule here is small and repeatable: **protein, color, and a carb that matches the day you are actually having.**
 
 ## The three-part plate
