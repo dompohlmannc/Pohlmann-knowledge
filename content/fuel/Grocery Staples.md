@@ -1,6 +1,6 @@
 # Grocery Staples That Earn Their Shelf
 
-A "healthy kitchen" that requires a second store and a specialty spice you will use once is not a system. Staples are the foods that show up in more than one meal and still look like food when you are tired. 
+A "healthy kitchen" that requires a second store and a specialty spice you use once isn't a system. Staples are the foods that show up in more than one meal and still look like food when you are tired. 
 
 ![[Meal-Prep-101-Handout.pdf]]
 
