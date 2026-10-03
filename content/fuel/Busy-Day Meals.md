@@ -10,7 +10,7 @@ If dinner cannot be done in twenty minutes, it does not belong on a busy-day lis
 
 - Eggs and toast plus a handful of fruit or salsa
 - Rotisserie chicken on a tortilla with whatever vegetable is left
-- Greek yogurt or cottage cheese bowl from the [[fuel/protein bowls|bowl templates]]
+- Greek yogurt or cottage cheese bowl from the [[Protein Bowls You Will Repeat]] 
 - Frozen steam bag vegetables plus a protein you already cooked
 
 ## Decision order when you are super tired
