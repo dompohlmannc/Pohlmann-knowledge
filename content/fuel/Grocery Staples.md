@@ -15,7 +15,8 @@ A "healthy kitchen" that requires a second store and a specialty spice you use o
 - Canned Tuna
 - A bag of frozen edamame
 
-These turn into breakfast, lunch, or dinner a [[Protein Bowls You Will Repeat|Protein Bowl]] or the center of [[fuel/building-your-plate|the plate]] without a new recipe. 
+These turn into breakfast, lunch, or dinner a [[Protein Bowls You Will Repeat|Protein Bowl]] or the center of [[The Plate]]
+without a new recipe. 
 
 ### Produce that survives a week
 

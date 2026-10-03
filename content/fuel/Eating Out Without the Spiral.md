@@ -6,14 +6,15 @@ You will eat out at a restaurant, cafe, in someone else's kitchen, and in the ca
 
 Find the protein. Build around it. Enjoy the food. 
 
-You do not need to interrogate the server or eat seamed chicken dry. Order the thing you want, keep the protein in the meal, and stop turning the bread basket into a personality test. If you trained hard, you probably need the carb on that plate anyway. That is the same dimmer switch as [[fuel/building-your-plate|building your plate]].
+You do not need to interrogate the server or eat seamed chicken dry. Order the thing you want, keep the protein in the meal, and stop turning the bread basket into a personality test. If you trained hard, you probably need the carb on that plate anyway. That is the same dinner switch as [[The Plate|your plate]].
+
 
 ### Practical moves that do not look like a diet
 
 - Eat a yogurt or a string cheese before you go if you arrive starving. 
 - Drink water because you like having a clear head, not as a trick to "fill up."
 - Share a dessert or get your own. Either can be a planned choice. Neither requires a speech. 
-- The next meal is a normal meal from [[fuel/grocery-staples|your staples]] or a [[fuel/protein-bowls|bowl]], not a cleanse. 
+- The next meal is a normal meal from [[Grocery Staples|your pantry]] or a [[Protein Bowls You Will Repeat|bowl]]. not a cleanse. 
 
 >The meal is one meal. The spiral is a decision you can decline. 
 
